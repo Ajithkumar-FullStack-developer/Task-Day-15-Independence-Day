@@ -4,7 +4,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2em;
+    font-size: 1em;
     color: blanchedalmond;
     background-color: blueviolet; /* Optional background color */
   }

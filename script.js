@@ -13,5 +13,5 @@ function startCountdown(timing, callback) {
 }
 
 function countdownFinished() {
-    document.getElementById("countdown").innerText = "* Happy Independence Day *";
+    document.getElementById("countdown").innerText = "*** Happy Independence Day ***";
 }  startCountdown(10, countdownFinished);
