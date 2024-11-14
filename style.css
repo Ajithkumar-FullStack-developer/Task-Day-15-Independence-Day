@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: blanchedalmond;
+    background-color: blueviolet; /* Optional background color */
+  }
+
+.wit{
+    text-align: center;
+}
